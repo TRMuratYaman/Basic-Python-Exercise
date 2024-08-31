@@ -28,7 +28,7 @@ def set_score_turtle():
    score_turtle.write(arg="Score:", move=False, align="center", font=FONT)
 
 
-# Set Countd own Turtle
+# Set Count down Turtle
 def set_countdown_turtle(time):
    global game_over
    countdown_turtle.color("dark blue")
